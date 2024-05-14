@@ -54,6 +54,7 @@ The next step after the feature extraction is to use the necessary features to c
 
 ## Deployement:
 The Diabetic Retinopathy Detection app is deployed using streamlit.
+https://github.com/Ramitha-V/Detection-of-Diabetic-Retinopathy-using-Image-Processing-/assets/162662008/59cc751d-9f27-475f-a649-a5c67a5bb752
 
 ## Results:
 The final result is segmented fundus region along with the classification of fundus as Diabetic Retinopathy or not.
