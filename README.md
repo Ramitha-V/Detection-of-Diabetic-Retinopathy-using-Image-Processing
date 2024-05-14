@@ -19,6 +19,7 @@ As we move forward, the following sections will delve into the technical aspects
 
 ## About Dataset
 The "Diabetic-Retinopathy-Detection" project utilizes the Indian Diabetic Retinopathy Detection dataset, a comprehensive collection of retina fundus images curated for the purpose of advancing research in the field of diabetic eye diseases. This dataset is specifically tailored for the identification and analysis of Diabetic Retinopathy in the Indian population.
+Link: https://idrid.grand-challenge.org/Data/
 
 ## Reading Fundus images from folder
 To train and evaluate the Diabetic-Retinopathy-Detection model, it is essential to efficiently read and preprocess the fundus images from the dataset. In this section, we will guide you through the process of reading images from the dataset folder and preparing them for further analysis.
