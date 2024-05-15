@@ -60,3 +60,6 @@ The final result is segmented fundus region along with the classification of fun
 
 ## Link
 https://diabetic-retinopathy-detection-vrvr.streamlit.app/?utm_medium=social
+
+## Link to our blog
+https://medium.com/@ramithavimala/detection-of-diabetic-retinopathy-using-image-processing-585dd37c1680
